@@ -1,7 +1,7 @@
 {% extends "email.txt" %}
 
 {% block content_title %}
-Your Civic Signal account is active
+Your CivicSignal account is active
 {% endblock %}
 
 {% block content_body %}
