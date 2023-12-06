@@ -21,7 +21,7 @@ Reason: {{ reason }}
 {% endblock %}
 
 {% block action_text %}
-Login to Civic Signal
+Login to CivicSignal
 {% endblock %}
 
 {% block action_url %}
