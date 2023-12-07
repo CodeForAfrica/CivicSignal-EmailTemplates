@@ -1,14 +1,14 @@
 {% extends "email.txt" %}
 
 {% block content_title %}
-Your Media Cloud account is active
+Your CivicSignalaccount is active
 {% endblock %}
 
 {% block content_body %}
 Hi {{ full_name }},
 
-Your Media Cloud account is now active. You can use this user account to access the
-variety of Media Cloud web-based tools and to make calls to the Media Cloud API.
+Your CivicSignal account is now active. You can use this user account to access the
+variety of CivicSignal web-based tools and to make calls to the CivicSignal API.
 
 Need Help?
 
@@ -20,13 +20,13 @@ That's a great place to ask questions and get support.
 
 As a backup, you can always email us at:
 
-support@mediacloud.org
+support@civicsignal.africa
 {% endblock %}
 
 {% block action_text %}
-Start using Media Cloud
+Start using CivicSignal
 {% endblock %}
 
 {% block action_url %}
-https://tools.mediacloud.org
+https://tools.civicsignal.africa
 {% endblock %}

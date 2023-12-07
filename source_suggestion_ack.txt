@@ -21,9 +21,9 @@ Reason: {{ reason }}
 {% endblock %}
 
 {% block action_text %}
-Login to Media Cloud
+Login to CivicSignal
 {% endblock %}
 
 {% block action_url %}
-https://sources.mediacloud.org/#/login
+https://sources.civicsignal.africa/#/login
 {% endblock %}
